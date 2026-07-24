@@ -1,0 +1,3 @@
+build-essential
+g++
+libstdc++6
