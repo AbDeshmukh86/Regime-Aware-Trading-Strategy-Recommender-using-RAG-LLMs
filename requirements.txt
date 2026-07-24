@@ -10,3 +10,6 @@ yfinance
 joblib
 ta
 sentence-transformers
+scikit-learn
+matplotlib
+hmmlearn
