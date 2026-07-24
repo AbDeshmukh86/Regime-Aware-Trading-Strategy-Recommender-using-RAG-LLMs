@@ -186,7 +186,7 @@ def run_advisor_pipeline(user_query: str, status_callback: Optional[Callable[[st
     _status("Extracting asset name from your query...")
     asset_name = extract_asset_name(user_query)
 
-   _status(f"Searching ticker for '{asset_name}'...")
+    _status(f"Searching ticker for '{asset_name}'...")
     ticker = get_yahoo_ticker(asset_name)
 
     # Quick swap if ticker ends in .BO
