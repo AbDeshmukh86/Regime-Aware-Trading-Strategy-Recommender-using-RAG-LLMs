@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pandas
+numpy
+litellm
+requests
+chromadb
+pdfplumber
+yfinance
+joblib
+ta
+sentence-transformers
