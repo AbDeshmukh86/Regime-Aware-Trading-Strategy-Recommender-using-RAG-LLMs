@@ -33,7 +33,7 @@ if not os.getenv("GROQ_API_KEY"):
 # 1. LLM CONFIGURATION
 # ==========================================
 
-MODEL_ID = "groq/llama-3.3-70b-versatile"
+MODEL_ID = "openai/gpt-oss-120b"
 
 # ==========================================
 # 2. PROMPTS
